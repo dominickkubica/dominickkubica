@@ -63,8 +63,8 @@
     <text x="60" y="72" font-size="28" text-anchor="middle">🏋️</text>
     <text x="106" y="52" font-size="12" font-weight="700" letter-spacing="3" fill="#7c5cff">GEN AI</text>
     <text x="106" y="80" font-size="27" font-weight="700" fill="#ece9ff">AI Fitness Coach</text>
-    <text x="32" y="128" font-size="19" font-weight="400" fill="#aaa4d8">Builds a week of meals and training around your stats and</text>
-    <text x="32" y="154" font-size="19" font-weight="400" fill="#aaa4d8">goal, and projects your weight over time.</text>
+    <text x="32" y="128" font-size="19" font-weight="400" fill="#aaa4d8">Builds a week of meals and training around your stats</text>
+    <text x="32" y="154" font-size="19" font-weight="400" fill="#aaa4d8">and goal, and projects your weight over time.</text>
     <rect x="32" y="272" width="78" height="32" rx="16.0" fill="#140f36" fill-opacity="0.8" stroke="#7c5cff" stroke-opacity="0.35"/>
     <text x="71" y="293" font-size="15" fill="#ece9ff" text-anchor="middle">OpenAI</text>
     <rect x="120" y="272" width="65" height="32" rx="16.0" fill="#140f36" fill-opacity="0.8" stroke="#7c5cff" stroke-opacity="0.35"/>
