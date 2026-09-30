@@ -31,14 +31,14 @@
 
 ### 🚀 Featured launches
 
-| | Project | What it does | Stack |
-|---|---|---|---|
-| 📈 | [**Options Scanner**](https://github.com/dominickkubica/options-scanner) | Ranks credit spreads, condors, and cash-secured puts, then checks its own scores against what actually happened. Its backtester only surfaces strategies that survive out-of-sample testing (p = 0.004 across 188 symbols) | Python · pandas · DuckDB · FastAPI · React |
-| 🔍 | [**Website Audit Tool**](https://github.com/dominickkubica/site-audit) | Crawls a business's site and turns it into a polished PDF audit (speed, SEO, conversion gaps) I use to open sales conversations | Python · PageSpeed API · Places API |
-| ✉️ | [**Cover Letter Generator**](https://github.com/dominickkubica/CoverLetterProject) | Searches live job postings, embeds your resume, and writes a cover letter for the job you pick | LangChain · Pinecone · OpenAI · Streamlit |
-| 🎙️ | [**Earnings Call Analyzer**](https://github.com/dominickkubica/msftstreamlit) | Sentiment by business line across Microsoft earnings calls, set against the stock's move, plus a chatbot over the transcripts | Python · OpenAI · Plotly · Streamlit |
-| 🎓 | [**SCU Scholarship Finder**](https://github.com/dominickkubica/NLP_Project) | Scrapes scholarships and uses an LLM to match them to a student's profile | Python · OpenAI · Streamlit |
-| 🏋️ | [**AI Fitness Coach**](https://github.com/dominickkubica/fitness) | Builds a week of meals and training around your stats and goal | Python · OpenAI · Plotly · Streamlit |
+| Project | What it does | Stack |
+|---|---|---|
+| 📈&nbsp;[**Options&nbsp;Scanner**](https://github.com/dominickkubica/options-scanner) | Ranks credit spreads, condors, and cash-secured puts, and checks its own scores against real outcomes. Its backtester only surfaces strategies that hold up out of sample (p = 0.004, 188 symbols) | Python · DuckDB · FastAPI · React |
+| 🔍&nbsp;[**Website&nbsp;Audit&nbsp;Tool**](https://github.com/dominickkubica/site-audit) | Crawls a business's site and turns it into a prioritized PDF audit that I use to open sales conversations | Python · PageSpeed · Places API |
+| ✉️&nbsp;[**Cover&nbsp;Letter&nbsp;Generator**](https://github.com/dominickkubica/CoverLetterProject) | Searches live job postings, embeds your resume, and writes a letter for the job you pick | LangChain · Pinecone · OpenAI |
+| 🎙️&nbsp;[**Earnings&nbsp;Call&nbsp;Analyzer**](https://github.com/dominickkubica/msftstreamlit) | Sentiment by business line on Microsoft earnings calls, set against the stock's move | OpenAI · Plotly · Streamlit |
+| 🎓&nbsp;[**Scholarship&nbsp;Finder**](https://github.com/dominickkubica/NLP_Project) | Scrapes scholarships and uses an LLM to match them to a student's profile | OpenAI · Streamlit |
+| 🏋️&nbsp;[**AI&nbsp;Fitness&nbsp;Coach**](https://github.com/dominickkubica/fitness) | Builds a week of meals and training around your stats and goal | OpenAI · Plotly · Streamlit |
 
 ### 🧰 Toolkit
 
