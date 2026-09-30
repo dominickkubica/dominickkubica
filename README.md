@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dominick-kubica/"><img src="https://img.shields.io/badge/LinkedIn-0d0b24?style=for-the-badge&logo=linkedin&logoColor=2bd2ff" alt="LinkedIn"></a>
-  <a href="https://executecoaching.org"><img src="https://img.shields.io/badge/Execute_Coaching-0d0b24?style=for-the-badge&logo=rocket&logoColor=7c5cff" alt="Execute Coaching"></a>
+  <a href="https://executecoaching.org"><img src="https://img.shields.io/badge/Coaching-0d0b24?style=for-the-badge&logo=rocket&logoColor=7c5cff" alt="Execute Coaching"></a>
   <a href="mailto:dominickkubica@gmail.com"><img src="https://img.shields.io/badge/Email-0d0b24?style=for-the-badge&logo=gmail&logoColor=c9bfff" alt="Email"></a>
   <a href="https://arxiv.org/abs/2505.16090"><img src="https://img.shields.io/badge/arXiv-2505.16090-0d0b24?style=for-the-badge&logo=arxiv&logoColor=b31b1b" alt="arXiv paper"></a>
-  <a href="https://techcommunity.microsoft.com/blog/microsoft365copilotblog/llms-can-read-but-can-they-understand-wall-street-benchmarking-their-financial-i/4412043"><img src="https://img.shields.io/badge/Microsoft_Copilot_blog-0d0b24?style=for-the-badge&logo=microsoft&logoColor=50e6ff" alt="Microsoft 365 Copilot blog"></a>
+  <a href="https://techcommunity.microsoft.com/blog/microsoft365copilotblog/llms-can-read-but-can-they-understand-wall-street-benchmarking-their-financial-i/4412043"><img src="https://img.shields.io/badge/Copilot_blog-0d0b24?style=for-the-badge&logo=microsoft&logoColor=50e6ff" alt="Microsoft 365 Copilot blog"></a>
   <a href="https://dominickkubica.github.io/Dominick_Kubica_Resume.pdf"><img src="https://img.shields.io/badge/Resume-0d0b24?style=for-the-badge&logo=readdotcv&logoColor=2bd2ff" alt="Resume"></a>
 </p>
 
