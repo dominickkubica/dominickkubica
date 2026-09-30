@@ -36,7 +36,8 @@ def wrap(s, max_px, size, bold=False):
     lines, cur = [], ""
     for word in s.split():
         trial = (cur + " " + word).strip()
-        if text_w(trial, size, bold) <= max_px:
+        # 15% headroom: Macs render SF Pro and Linux often Arial, both wider than Segoe UI.
+        if text_w(trial, size, bold) * 1.15 <= max_px:
             cur = trial
         else:
             lines.append(cur)
@@ -134,7 +135,7 @@ def mission():
 PROJECTS = [
     ("options", "📈", "Options Scanner", "Ranks credit spreads, condors, and cash-secured puts, then checks its own scores against real outcomes. The backtester only surfaces strategies that hold up out of sample (p = 0.004 across 188 symbols).",
      ["Python", "DuckDB", "FastAPI", "React"], "#22d39b", "FLAGSHIP"),
-    ("audit", "🔍", "Website Audit Tool", "Crawls a business's website and turns it into a prioritized PDF audit covering speed, SEO, and conversion gaps. Screens hundreds of prospects at once. I use it to open sales conversations.",
+    ("audit", "🔍", "Website Audit Tool", "Crawls a business's website and turns it into a prioritized PDF audit of speed, SEO, and conversion gaps. Ranks a whole prospect list by need. I use it to open sales calls.",
      ["Python", "PageSpeed API", "Places API"], "#ffb86b", "GTM"),
     ("cover", "✉️", "Cover Letter Generator", "Searches live job postings, embeds your resume, and writes a cover letter for the job you pick. 300+ users.",
      ["LangChain", "Pinecone", "OpenAI", "Streamlit"], "#ff5ca8", "GEN AI"),
@@ -153,7 +154,7 @@ def project_card(key, emoji, title, desc, tags, col, kicker, seed):
     body += f'    <text x="60" y="72" font-size="28" text-anchor="middle">{emoji}</text>\n'
     body += f'    <text x="106" y="52" font-size="12" font-weight="700" letter-spacing="3" fill="{col}">{kicker}</text>\n'
     body += f'    <text x="106" y="80" font-size="27" font-weight="700" fill="{TEXT}">{escape(title)}</text>\n'
-    body += lines_svg(32, 128, wrap(desc, W - 60, 19)[:5], 19, MUTED, lh=1.38)
+    body += lines_svg(32, 128, wrap(desc, W - 60, 19), 19, MUTED, lh=1.38)
     p, _ = pills(32, 272, tags, W - 190, size=15, color=col, h=32)
     body += p
     body += f'    <text x="{W-32}" y="{294}" font-size="16" font-weight="600" fill="{col}" text-anchor="end">View repo →</text>\n'
