@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 244" width="1200" height="244">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070818"/>
+      <stop offset="0.6" stop-color="#0d0b24"/>
+      <stop offset="1" stop-color="#170d33"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.9" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#7c5cff" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#7c5cff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0.05" cy="1" r="0.6">
+      <stop offset="0" stop-color="#2bd2ff" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#2bd2ff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect width="1200" height="244" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .tw { animation: twinkle 4s ease-in-out infinite; }
+    @keyframes twinkle { 0%,100% { opacity: 1; } 50% { opacity: 0.15; } }
+    text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif; }
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="244" fill="url(#sky)"/>
+    <rect width="1200" height="244" fill="url(#g1)"/>
+    <rect width="1200" height="244" fill="url(#g2)"/>
+    <circle class="" cx="38.0" cy="236.4" r="0.8" fill="#b9f3ff"/>
+    <circle class="tw" cx="619.5" cy="97.2" r="1.0" fill="#b9f3ff" style="animation-duration:4.2s;animation-delay:-3.5s"/>
+    <circle class="tw" cx="652.7" cy="167.4" r="1.3" fill="#cfd8ff" style="animation-duration:5.4s;animation-delay:-4.2s"/>
+    <circle class="tw" cx="1108.9" cy="200.7" r="1.7" fill="#ffffff" style="animation-duration:3.9s;animation-delay:-4.2s"/>
+    <circle class="tw" cx="405.4" cy="38.3" r="1.3" fill="#b9f3ff" style="animation-duration:3.5s;animation-delay:-0.6s"/>
+    <circle class="" cx="783.8" cy="61.4" r="0.8" fill="#cfd8ff"/>
+    <circle class="" cx="1052.7" cy="184.7" r="1.7" fill="#ffffff"/>
+    <circle class="tw" cx="772.4" cy="219.4" r="1.0" fill="#ffffff" style="animation-duration:3.1s;animation-delay:-5.9s"/>
+    <circle class="tw" cx="1009.0" cy="242.5" r="1.7" fill="#ffe9c4" style="animation-duration:5.3s;animation-delay:-2.9s"/>
+    <circle class="" cx="46.2" cy="231.1" r="1.7" fill="#ffffff"/>
+    <circle class="" cx="846.5" cy="0.5" r="1.0" fill="#ffffff"/>
+    <circle class="tw" cx="747.1" cy="125.4" r="0.6" fill="#cfd8ff" style="animation-duration:3.4s;animation-delay:-4.3s"/>
+    <circle class="" cx="232.0" cy="168.1" r="0.8" fill="#ffffff"/>
+    <circle class="tw" cx="693.2" cy="159.1" r="0.6" fill="#ffe9c4" style="animation-duration:2.7s;animation-delay:-2.5s"/>
+    <circle class="tw" cx="804.5" cy="122.4" r="1.0" fill="#ffffff" style="animation-duration:2.6s;animation-delay:-5.5s"/>
+    <circle class="" cx="634.6" cy="72.4" r="1.0" fill="#ffffff"/>
+    <circle class="" cx="1072.9" cy="131.6" r="1.0" fill="#ffffff"/>
+    <circle class="" cx="178.6" cy="224.3" r="1.0" fill="#ffffff"/>
+    <circle class="tw" cx="1189.2" cy="113.3" r="1.0" fill="#cfd8ff" style="animation-duration:2.7s;animation-delay:-4.9s"/>
+    <circle class="tw" cx="1189.6" cy="69.5" r="0.8" fill="#ffffff" style="animation-duration:4.4s;animation-delay:-1.9s"/>
+    <circle class="" cx="186.9" cy="158.4" r="0.6" fill="#ffe9c4"/>
+    <circle class="tw" cx="468.0" cy="237.5" r="0.6" fill="#b9f3ff" style="animation-duration:3.6s;animation-delay:-1.0s"/>
+    <circle class="" cx="213.0" cy="77.5" r="0.8" fill="#b9f3ff"/>
+    <circle class="tw" cx="1151.5" cy="177.5" r="1.7" fill="#ffffff" style="animation-duration:6.0s;animation-delay:-5.0s"/>
+    <circle class="tw" cx="934.9" cy="223.1" r="0.6" fill="#cfd8ff" style="animation-duration:2.6s;animation-delay:-5.9s"/>
+    <circle class="" cx="846.6" cy="185.8" r="1.7" fill="#ffe9c4"/>
+    <circle class="tw" cx="373.0" cy="73.9" r="1.0" fill="#ffffff" style="animation-duration:5.1s;animation-delay:-2.8s"/>
+    <circle class="tw" cx="1081.5" cy="162.0" r="1.7" fill="#ffffff" style="animation-duration:5.2s;animation-delay:-3.1s"/>
+    <circle class="tw" cx="592.3" cy="27.9" r="0.6" fill="#ffffff" style="animation-duration:4.1s;animation-delay:-3.4s"/>
+    <circle class="tw" cx="1125.6" cy="29.4" r="1.0" fill="#cfd8ff" style="animation-duration:2.9s;animation-delay:-2.4s"/>
+    <circle class="" cx="36.0" cy="162.7" r="0.8" fill="#b9f3ff"/>
+    <circle class="" cx="864.9" cy="16.8" r="0.6" fill="#b9f3ff"/>
+    <circle class="" cx="1186.5" cy="52.5" r="0.6" fill="#b9f3ff"/>
+    <circle class="tw" cx="678.7" cy="239.6" r="1.3" fill="#cfd8ff" style="animation-duration:4.0s;animation-delay:-4.9s"/>
+    <circle class="tw" cx="579.8" cy="186.2" r="1.7" fill="#cfd8ff" style="animation-duration:5.5s;animation-delay:-2.7s"/>
+    <circle class="tw" cx="226.7" cy="79.0" r="1.0" fill="#b9f3ff" style="animation-duration:3.7s;animation-delay:-0.9s"/>
+    <circle class="tw" cx="770.5" cy="164.6" r="1.0" fill="#cfd8ff" style="animation-duration:4.5s;animation-delay:-0.2s"/>
+    <circle class="tw" cx="1051.8" cy="130.2" r="1.7" fill="#ffe9c4" style="animation-duration:2.9s;animation-delay:-3.9s"/>
+    <circle class="" cx="1057.9" cy="194.5" r="0.8" fill="#ffffff"/>
+    <circle class="tw" cx="397.6" cy="193.4" r="1.7" fill="#ffffff" style="animation-duration:5.8s;animation-delay:-0.8s"/>
+    <circle class="tw" cx="876.4" cy="44.4" r="1.7" fill="#cfd8ff" style="animation-duration:5.8s;animation-delay:-5.5s"/>
+    <circle class="" cx="245.0" cy="69.8" r="0.6" fill="#cfd8ff"/>
+    <circle class="tw" cx="1073.7" cy="42.3" r="1.0" fill="#cfd8ff" style="animation-duration:5.5s;animation-delay:-4.0s"/>
+    <circle class="tw" cx="1029.4" cy="12.6" r="1.7" fill="#ffffff" style="animation-duration:3.4s;animation-delay:-5.4s"/>
+    <circle class="tw" cx="671.6" cy="178.3" r="1.3" fill="#ffffff" style="animation-duration:4.0s;animation-delay:-0.2s"/>
+    <circle class="tw" cx="1002.4" cy="141.2" r="0.6" fill="#cfd8ff" style="animation-duration:2.5s;animation-delay:-4.0s"/>
+    <circle class="tw" cx="95.5" cy="7.5" r="1.0" fill="#b9f3ff" style="animation-duration:4.5s;animation-delay:-4.9s"/>
+    <circle class="" cx="674.5" cy="145.7" r="0.8" fill="#b9f3ff"/>
+    <circle class="tw" cx="752.3" cy="130.6" r="1.7" fill="#ffffff" style="animation-duration:4.6s;animation-delay:-1.3s"/>
+    <circle class="" cx="1044.4" cy="220.4" r="1.7" fill="#cfd8ff"/>
+    <circle class="tw" cx="446.5" cy="129.4" r="1.0" fill="#ffffff" style="animation-duration:5.0s;animation-delay:-0.0s"/>
+    <circle class="tw" cx="965.0" cy="137.2" r="0.6" fill="#cfd8ff" style="animation-duration:4.4s;animation-delay:-4.1s"/>
+    <circle class="tw" cx="491.2" cy="166.2" r="1.7" fill="#ffffff" style="animation-duration:5.7s;animation-delay:-3.8s"/>
+    <circle class="tw" cx="609.0" cy="208.0" r="1.0" fill="#ffffff" style="animation-duration:2.5s;animation-delay:-2.1s"/>
+    <circle class="" cx="790.4" cy="22.8" r="1.0" fill="#cfd8ff"/>
+    <circle class="" cx="117.6" cy="65.6" r="1.0" fill="#b9f3ff"/>
+    <circle class="" cx="971.5" cy="80.2" r="0.8" fill="#ffe9c4"/>
+    <circle class="" cx="703.4" cy="69.0" r="0.8" fill="#ffe9c4"/>
+    <circle class="" cx="188.7" cy="111.0" r="1.7" fill="#cfd8ff"/>
+    <circle class="tw" cx="449.5" cy="41.8" r="1.3" fill="#ffffff" style="animation-duration:4.1s;animation-delay:-0.6s"/>
+    <circle class="tw" cx="565.9" cy="14.7" r="0.6" fill="#cfd8ff" style="animation-duration:4.0s;animation-delay:-3.0s"/>
+    <circle class="tw" cx="1152.1" cy="187.7" r="1.3" fill="#b9f3ff" style="animation-duration:4.8s;animation-delay:-0.8s"/>
+    <circle class="tw" cx="359.2" cy="110.3" r="1.7" fill="#ffffff" style="animation-duration:5.0s;animation-delay:-3.3s"/>
+    <circle class="tw" cx="286.7" cy="61.1" r="0.8" fill="#ffffff" style="animation-duration:5.8s;animation-delay:-4.1s"/>
+    <circle class="" cx="739.5" cy="228.6" r="0.8" fill="#ffe9c4"/>
+    <circle class="tw" cx="1003.8" cy="238.7" r="1.0" fill="#b9f3ff" style="animation-duration:5.8s;animation-delay:-3.7s"/>
+    <circle class="" cx="48.2" cy="193.7" r="1.0" fill="#cfd8ff"/>
+    <circle class="tw" cx="848.0" cy="138.0" r="1.0" fill="#ffffff" style="animation-duration:3.7s;animation-delay:-2.9s"/>
+    <circle class="" cx="32.2" cy="160.1" r="1.7" fill="#ffe9c4"/>
+    <rect x="0.5" y="0.5" width="1199" height="243" rx="18" fill="none" stroke="#c9bfff" stroke-opacity="0.16"/>
+    <circle cx="54" cy="56" r="6" fill="#2bd2ff"><animate attributeName="opacity" values="1;0.35;1" dur="3s" repeatCount="indefinite"/></circle>
+    <text x="70" y="64" font-size="26" font-weight="700" fill="#ece9ff">Toolkit</text>
+    <rect x="48" y="104" width="85" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="91" y="133" font-size="19" fill="#ece9ff" text-anchor="middle">Python</text>
+    <rect x="145" y="104" width="62" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="176" y="133" font-size="19" fill="#ece9ff" text-anchor="middle">SQL</text>
+    <rect x="219" y="104" width="97" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="268" y="133" font-size="19" fill="#ece9ff" text-anchor="middle">PyTorch</text>
+    <rect x="328" y="104" width="127" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="391" y="133" font-size="19" fill="#ece9ff" text-anchor="middle">TensorFlow</text>
+    <rect x="467" y="104" width="125" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="529" y="133" font-size="19" fill="#ece9ff" text-anchor="middle">scikit-learn</text>
+    <rect x="603" y="104" width="141" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="674" y="133" font-size="19" fill="#ece9ff" text-anchor="middle">Hugging Face</text>
+    <rect x="757" y="104" width="115" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="814" y="133" font-size="19" fill="#ece9ff" text-anchor="middle">LangChain</text>
+    <rect x="884" y="104" width="132" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="950" y="133" font-size="19" fill="#ece9ff" text-anchor="middle">OpenAI API</text>
+    <rect x="1028" y="104" width="103" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="1080" y="133" font-size="19" fill="#ece9ff" text-anchor="middle">Streamlit</text>
+    <rect x="48" y="160" width="85" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="91" y="189" font-size="19" fill="#ece9ff" text-anchor="middle">Django</text>
+    <rect x="145" y="160" width="100" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="195" y="189" font-size="19" fill="#ece9ff" text-anchor="middle">FastAPI</text>
+    <rect x="257" y="160" width="116" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="315" y="189" font-size="19" fill="#ece9ff" text-anchor="middle">Snowflake</text>
+    <rect x="384" y="160" width="87" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="428" y="189" font-size="19" fill="#ece9ff" text-anchor="middle">Airflow</text>
+    <rect x="484" y="160" width="97" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="532" y="189" font-size="19" fill="#ece9ff" text-anchor="middle">PySpark</text>
+    <rect x="592" y="160" width="102" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="643" y="189" font-size="19" fill="#ece9ff" text-anchor="middle">BigQuery</text>
+    <rect x="706" y="160" width="116" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="764" y="189" font-size="19" fill="#ece9ff" text-anchor="middle">Databricks</text>
+    <rect x="834" y="160" width="94" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="881" y="189" font-size="19" fill="#ece9ff" text-anchor="middle">Tableau</text>
+    <rect x="940" y="160" width="66" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="973" y="189" font-size="19" fill="#ece9ff" text-anchor="middle">AWS</text>
+    <rect x="1018" y="160" width="51" height="44" rx="22.0" fill="#140f36" fill-opacity="0.8" stroke="#c9bfff" stroke-opacity="0.35"/>
+    <text x="1043" y="189" font-size="19" fill="#ece9ff" text-anchor="middle">Git</text>
+
+  </g>
+</svg>
